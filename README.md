@@ -35,3 +35,18 @@ while the other servo moves to position the ring infront of the DC motor for it 
 - 1X Towel.
 - 1X Metal hinge.
 
+# Instructions
+
+### Build Instructions
+- To build the Bubble making Robot, you would need the connect the Hardware in the following way:
+<a href="http://tinypic.com?ref=sq2emo" target="_blank"><img src="http://i67.tinypic.com/sq2emo.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+### Software Instructions
+- Please Upload the code found on /Code on your Arduino uno.
+
+### Final Instructions
+- Fill the Plastic cups with the soapy water.
+- Connect the Arduino uno with the USB cable or with AC-DC adapter.
+- Enjoy the Bubbles
+
+

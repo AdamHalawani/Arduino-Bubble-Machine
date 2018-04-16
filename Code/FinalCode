@@ -8,6 +8,7 @@ This code is made for the final project of CS-207,  to view this full project se
 this code controls 5 motors and 2 servos, to make a bubbles.
 Video of this project in motion is in the repository.
 
+*/
 
 #include <Servo.h>
 /********************************************************************************/

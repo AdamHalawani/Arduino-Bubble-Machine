@@ -49,4 +49,7 @@ while the other servo moves to position the ring infront of the DC motor for it 
 - Connect the Arduino uno with the USB cable or with AC-DC adapter.
 - Enjoy the Bubbles
 
+## Credits:
+- Adam Halawani.
+- Bernard Katz Glass from http://www.instructables.com/id/Bubblesteen-Bubble-Machine/
 

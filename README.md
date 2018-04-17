@@ -39,7 +39,7 @@ while the other servo moves to position the ring infront of the DC motor for it 
 
 ### Build Instructions
 - To build the Bubble making Robot, you would need the connect the Hardware in the following way:
-<a href="http://tinypic.com?ref=sq2emo" target="_blank"><img src="http://i67.tinypic.com/sq2emo.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="https://ibb.co/fBWPcS"><img src="https://preview.ibb.co/dWDsWn/Final_Sketch.png" alt="Final_Sketch" border="0"></a>
 
 ### Software Instructions
 - Please Upload the code found on /Code on your Arduino uno.
